@@ -1,1 +1,1 @@
-web: gunicorn kizblog.wsgi
+web: gunicorn codestar2023.wsgi
